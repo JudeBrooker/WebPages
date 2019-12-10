@@ -1,0 +1,9 @@
+.blueText{
+    color: blue;
+}
+.images{
+    height: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: thick;
+}
